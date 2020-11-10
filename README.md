@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cuttingl&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cuttingl&show_icons=true&theme=dracula)
 
 
 <!--
