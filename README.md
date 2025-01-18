@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cuttingl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuttingl&show_icons=true&theme=dracula)
